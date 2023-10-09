@@ -1,6 +1,6 @@
 # Tugas Pertemuan 3 - Kriptografi
 ```
-Dosen Pengampu   : Muhammad Najamuddin Dwi Miharja, S.Kom, M.Kom
+Dosen Pengampu   : Ahmad Turmudi Zy, S.Kom., M.Kom
 Mata Kuliah      : Kriptografi
 Nama             : Raihan Tantowi
 Nim              : 312110229
